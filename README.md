@@ -6,7 +6,7 @@ A simple Python clicker game built with Pygame.
 
 • Click the skibidi toilet to earn points.  
 • Use the upgrade buttons to increase click power and buy an auto-clicker.  
-• The auto-clicker will add points if you upgrade it
+• The auto-clicker will add points if you upgrade it.
 
 ## Requirements
 
@@ -16,9 +16,10 @@ A simple Python clicker game built with Pygame.
 ## How to Run
 
 ‣ Clone or download this repository.  
-‣ Install Pygame if you don’t have it: 
+‣ Install Pygame if you don’t have it:
 
- ## How to install Pygame (if you dont know how to) 
- • Open terminal (CMD Mode if win11)
- • Type (pip install pygame)
- • Done! you should have pygame installed
+## How to install Pygame (if you don’t know how)
+
+• Open terminal (CMD mode on Windows 11)  
+• Type: pip install pygame  
+• Done! You should have Pygame installed.
