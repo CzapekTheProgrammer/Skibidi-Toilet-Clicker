@@ -15,7 +15,7 @@ A simple Python clicker game built with Pygame.
 
 ## How to Run
 
-‣ Clone or download this repository.  
+‣ Download this repository.  
 ‣ Install Pygame if you don’t have it:
 
 ## How to install Pygame (if you don’t know how)
