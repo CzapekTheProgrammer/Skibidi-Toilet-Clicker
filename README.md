@@ -12,7 +12,7 @@ A simple Python clicker game built with Pygame.
 
 ◦ Python 3.x  
 ◦ Pygame
-
+◦ Windows 7 or newer
 ## How to Run
 
 ‣ Download this repository.  
